@@ -56,7 +56,7 @@ module.exports = function (sails) {
 };
 ```
 
-The public var and function above would be available as `sails.hooks.myhook.abc` and `sails.hooks.myhook.sayHi`, respectively.
+The public var and function above would be available as `sails.hooks.myhook.abc` and `sails.hooks.myhook.sayHi()`, respectively.
 
 
 <docmeta name="displayName" value="Hook specification">
